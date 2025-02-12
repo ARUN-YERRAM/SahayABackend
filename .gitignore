@@ -1,2 +1,12 @@
 .env 
 serviceAccountKey.json
+
+# Ignore service account key file
+serviceAccountKey.json
+
+# Optionally ignore environment files (if you have them)
+.env
+.env*
+
+# Ignore the .history directory if it contains sensitive files
+.history/
