@@ -15,7 +15,8 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "firebase-admin": "^13.1.0",
+    "firebase-functions": "^6.3.1",
     "node-cron": "^3.0.3",
-    "twilio": "^5.4.3"
+    "twilio": "^5.4.4"
   }
 }
